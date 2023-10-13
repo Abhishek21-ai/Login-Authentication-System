@@ -1,0 +1,1 @@
+create table auth(auth_id integer primary key,email varchar(255),password varchar(255));
