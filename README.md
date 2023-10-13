@@ -28,7 +28,20 @@ and Job is Database name make sure to change the Database name and password acco
 ![config json - Job Portal - Visual Studio Code 13-10-2023 23_07_35](https://github.com/Abhishek21-ai/Login-Authentication-System/assets/68462503/a71d053e-3a92-4913-b92e-1d4ed3f524d7)
 
 
+#### Step 4 
 
-### Step 4
+Run the file table.sql in postgresql and it will make the table
+
+
+### Step 5
 
 Run the Application using terminal using <b>python regauthv1.py</b>
+
+
+### Something About Project
+
+In modelv1.py file all Database model is defined and the main logic is in regauthv1.py 
+
+
+
+
