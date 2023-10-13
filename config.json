@@ -1,0 +1,11 @@
+{
+    "gmail": {
+        "gmail-username": "",
+        "gmail-password": ""
+    },
+    "FLASK": {
+        "ENVIORMENT": "development",
+        "CREATE_TABLES": "",
+        "DATABASE": "postgresql://postgres:1234@localhost/Job"
+    }
+}
